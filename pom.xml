@@ -75,7 +75,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/tuUsuario/socialseed-platform</url>
+            <url>https://maven.pkg.github.com/daironpf/socialseed-platform</url>
         </repository>
     </distributionManagement>
 </project>
