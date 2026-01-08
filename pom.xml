@@ -1,0 +1,48 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="
+           http://maven.apache.org/POM/4.0.0
+           http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.socialseed</groupId>
+    <artifactId>socialseed-platform</artifactId>
+    <version>0.1.0</version>
+    <packaging>pom</packaging>
+
+    <name>SocialSeed Platform BOM</name>
+    <description>Bill of Materials for SocialSeed platform starters</description>
+
+    <modules>
+        <module>socialseed-validation-starter</module>
+    </modules>
+
+    <!-- Version governance -->
+    <properties>
+        <java.version>21</java.version>
+        <spring.boot.version>3.5.7</spring.boot.version>
+        <jakarta.validation.version>3.1.1</jakarta.validation.version>
+    </properties>
+
+    <!-- Dependency management -->
+    <dependencyManagement>
+        <dependencies>
+
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-dependencies</artifactId>
+                <version>${spring.boot.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+
+            <dependency>
+                <groupId>com.socialseed</groupId>
+                <artifactId>socialseed-validation-starter</artifactId>
+                <version>0.1.0</version>
+            </dependency>
+
+        </dependencies>
+    </dependencyManagement>
+</project>
