@@ -1,0 +1,4 @@
+com/socialseed/errorhandling/exception/BusinessException.class
+com/socialseed/errorhandling/config/ErrorHandlingAutoConfiguration.class
+com/socialseed/errorhandling/handler/GlobalErrorHandler.class
+com/socialseed/errorhandling/exception/ErrorCode.class

@@ -1,0 +1,4 @@
+/home/dairon/proyectos/SocialSeed/platform/socialseed-error-handling-starter/src/main/java/com/socialseed/errorhandling/exception/BusinessException.java
+/home/dairon/proyectos/SocialSeed/platform/socialseed-error-handling-starter/src/main/java/com/socialseed/errorhandling/exception/ErrorCode.java
+/home/dairon/proyectos/SocialSeed/platform/socialseed-error-handling-starter/src/main/java/com/socialseed/errorhandling/handler/GlobalErrorHandler.java
+/home/dairon/proyectos/SocialSeed/platform/socialseed-error-handling-starter/src/main/java/com/socialseed/errorhandling/config/ErrorHandlingAutoConfiguration.java
