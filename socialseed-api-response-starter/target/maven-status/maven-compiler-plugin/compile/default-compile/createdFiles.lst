@@ -1,0 +1,8 @@
+com/socialseed/apiresponse/config/ApiResponseAutoConfiguration.class
+com/socialseed/apiresponse/model/ApiResponse.class
+com/socialseed/apiresponse/model/ApiError.class
+com/socialseed/apiresponse/response/ResponseDTO.class
+com/socialseed/apiresponse/model/ApiMessageKey.class
+com/socialseed/apiresponse/config/AppInfo.class
+com/socialseed/apiresponse/config/OpenAPIConfig.class
+com/socialseed/apiresponse/i18n/MessageResolver.class
