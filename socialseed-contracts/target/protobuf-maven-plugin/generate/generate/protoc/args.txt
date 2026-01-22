@@ -1,0 +1,9 @@
+--java_out=/home/dairon/proyectos/SocialSeed/platform/socialseed-contracts/target/generated-sources/protobuf
+--plugin=protoc-gen-c0fa4c863baf399fcb19835d0d0442f57dfcbbe=/home/dairon/.m2/repository/io/grpc/protoc-gen-grpc-java/1.68.0/protoc-gen-grpc-java-1.68.0-linux-x86_64.exe
+--c0fa4c863baf399fcb19835d0d0442f57dfcbbe_out=/home/dairon/proyectos/SocialSeed/platform/socialseed-contracts/target/generated-sources/protobuf
+--c0fa4c863baf399fcb19835d0d0442f57dfcbbe_opt=@generated=omit
+/home/dairon/proyectos/SocialSeed/platform/socialseed-contracts/src/main/proto/socialuser.proto
+/home/dairon/proyectos/SocialSeed/platform/socialseed-contracts/src/main/proto/auth_events.proto
+--proto_path=/home/dairon/proyectos/SocialSeed/platform/socialseed-contracts/src/main/proto
+--proto_path=/home/dairon/proyectos/SocialSeed/platform/socialseed-contracts/target/protobuf-maven-plugin/generate/generate/archives/protobuf-java-4.28.2-7683ecf32beff6d52667d3d318808f47675d7
+--proto_path=/home/dairon/proyectos/SocialSeed/platform/socialseed-contracts/target/protobuf-maven-plugin/generate/generate/archives/proto-google-common-protos-2.41.0-30eb6e51888b8bec4dd8d39d55a8d681ad79648f
