@@ -24,5 +24,8 @@ hs_err_pid*
 replay_pid*
 
 /socialseed-validation-starter/target
+/socialseed-api-response-starter/target
+/socialseed-contracts/target
+/socialseed-error-handling-starter/target
 
 .idea
